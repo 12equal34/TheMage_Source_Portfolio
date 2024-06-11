@@ -7,8 +7,8 @@
 (추후에 스팀웍스의 검토가 끝나면 스팀 상점 페이지 링크를 올릴 예정입니다.)
 
 ## Core Folders
-1. **PaperAnim**: Paper Characters의 Animation을 담당합니다.
-2. **Monster**: Monsters의 AI를 담당합니다.
+1. **PaperAnim**: 2D 캐릭터의 애니메이션을 담당합니다.
+2. **Monster**: 몬스터의 AI를 담당합니다.
 
 ## PaperAnim
 >엔진 내의 **APaperCharacter**는 **UPaperFlipbookComponent**를 통해 2d Animation을 애니메이션의 전통적인 Flipbook 방법으로 구현합니다.
