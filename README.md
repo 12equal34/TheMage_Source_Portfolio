@@ -6,11 +6,11 @@ The Mage play test.exe 실행파일(윈도우 전용)이 들어있는 Onedrive �
 
 (추후에 스팀웍스의 검토가 끝나면 스팀 상점 페이지 링크를 올릴 예정입니다.)
 
-# Core Folders
+## Core Folders
 1. **PaperAnim**: Paper Characters의 Animation을 담당합니다.
 2. **Monster**: Monsters의 AI를 담당합니다.
 
-# PaperAnim
+## PaperAnim
 >엔진 내의 APaperCharacter는 UPaperFlipbookComponent를 통해 2d Animation을 애니메이션의 전통적인 Flipbook 방법으로 구현합니다.
 >이때 UPaperFlipbookComponent의 TickFlipbook 메서드를 사용합니다.
 >TickFlipbook에서 SetPlaybackPosition 메서드를 사용하여 현재 캐릭터의 스프라이트(UPaperFlipbook)를 갱신합니다.
@@ -38,7 +38,7 @@ PlayFrameEffects 메서드는 현재 캐릭터의 스프라이트가 변경되�
 
 ![image](https://github.com/12equal34/TheMage_Source_Portfolio/assets/109350254/48f0513b-9d8d-4362-9566-522201ad76a4)
 
-# Monster
+## Monster
 게임 내의 몬스터는 AMonsterCharacter를 상속받습니다.
 AMonsterCharacter는 몬스터의 AI를 담당하는 UMonsterComponent를 갖고 있습니다.
 UMonsterComponent는 (판단)UMonsterBrain, (레이트레이싱 인식)UMonsterSight, (충돌 인식)UMonsterSkin 객체를 하나씩 갖습니다.
