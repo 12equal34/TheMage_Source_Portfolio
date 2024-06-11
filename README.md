@@ -4,6 +4,8 @@ The Mage 플레이 영상 유튜브 링크: https://youtu.be/K2QGk7OlUCc
 
 The Mage play test.exe 실행파일(윈도우 전용)이 들어있는 Onedrive 링크: https://1drv.ms/f/s!Aqh-AjiWNIN3pWPJECYEEn5JH3CS?e=zj9VJv
 
+(추후에 스팀웍스의 검토가 끝나면 스팀 상점 페이지 링크를 올릴 예정입니다.)
+
 # Core Folders
 1. **PaperAnim**: Paper Characters의 Animation을 담당합니다.
 2. **Monster**: Monsters의 AI를 담당합니다.
@@ -44,4 +46,18 @@ UMonsterSight를 통해 주변에 적이 있는지 판단합니다.
 
 ![image](https://github.com/12equal34/TheMage_Source_Portfolio/assets/109350254/41ce97a9-f784-498e-9937-f8eb922c21f0)
 ![image](https://github.com/12equal34/TheMage_Source_Portfolio/assets/109350254/84ddf1e1-16a2-416a-badc-2495b6bf60ec)
+
+UMonsterSkin을 통해 적에게 가하는 접촉 피해 관련 데이터들을 설정할 수 있습니다.
+
+![image](https://github.com/12equal34/TheMage_Source_Portfolio/assets/109350254/b03d4a13-92f5-40de-a5ca-dccc38604dbc)
+
+UMonsterBrain은 정확히 AI의 역할을 하게 됩니다.
+UMonsterSight와 UMonsterSkin로부터 축적된 인식 데이터들로부터 분석 및 판단하여 행동(Behaviors)을 결정합니다.
+
+![image](https://github.com/12equal34/TheMage_Source_Portfolio/assets/109350254/4c3838f2-107a-431b-809d-34304947d7ab)
+---
+![image](https://github.com/12equal34/TheMage_Source_Portfolio/assets/109350254/a29256f6-cd11-4c5f-86f2-76b93e996996)
+---
+![image](https://github.com/12equal34/TheMage_Source_Portfolio/assets/109350254/95912f46-a941-456b-bc2f-3e764bc2aeda)
+
 
