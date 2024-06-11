@@ -1,8 +1,8 @@
 # TheMage_Source_Portfolio
 
-**The Mage** 플레이 영상 유튜브 링크: https://youtu.be/K2QGk7OlUCc
+플레이 영상 유튜브 링크: https://youtu.be/K2QGk7OlUCc
 
-**The Mage play test.exe** 실행파일(윈도우 전용)이 들어있는 Onedrive 링크: https://1drv.ms/f/s!Aqh-AjiWNIN3pWPJECYEEn5JH3CS?e=zj9VJv
+실행파일(윈도우 전용)이 들어있는 Onedrive 링크: https://1drv.ms/f/s!Aqh-AjiWNIN3pWPJECYEEn5JH3CS?e=zj9VJv
 
 (추후에 스팀웍스의 검토가 끝나면 스팀 상점 페이지 링크를 올릴 예정입니다.)
 
