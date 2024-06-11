@@ -21,6 +21,8 @@ APaperAnimCharacter는 APaperCharacter를 상속하고 기존의 UPaperFlipbookC
 UPaperAnimPlayer는 UPaperFlipbookComponent과 다르게 time 단위가 아닌 frame 단위로 증분하여 재생합니다.
 이유는 각 frame key에 해당하는 현재 캐릭터의 스프라이트(UPaperFlipbook)가 끝나거나 시작되었을 때, 이벤트 또는 PlayFrameEffects 메서드 호출을 발생하기 위함입니다.
 
+![image](https://github.com/12equal34/TheMage_Source_Portfolio/assets/109350254/4f8939c0-4364-41fb-a024-86e9c14468e9)
+
 PlayFrameEffects 메서드는 현재 캐릭터의 스프라이트가 변경되었을 때, frame key에 해당하는 UPaperAnimAsset의 컨테이너 내 원소의 UPaperAnimFrameEffect::Play() 메서드를 호출합니다.
 이를 통해 스킬의 스폰, 캐릭터의 질주, 주먹 공격 도중의 방향키 입력으로 인한 이동, 사운드 발생 등을 구현할 수 있었습니다.
 
