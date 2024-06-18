@@ -2,9 +2,7 @@
 
 플레이 영상 유튜브 링크: https://youtu.be/K2QGk7OlUCc
 
-실행파일(윈도우 전용)이 들어있는 Onedrive 링크: https://1drv.ms/f/s!Aqh-AjiWNIN3pWPJECYEEn5JH3CS?e=zj9VJv
-
-(추후에 스팀웍스의 검토가 끝나면 스팀 상점 페이지 링크를 올릴 예정입니다.)
+itch.io 데모 게임실행: https://12equal34.itch.io/the-mage-demo
 
 그래픽 디자인 및 프로그래밍은 모두 제가 제작하였습니다.
 
